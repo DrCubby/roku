@@ -1,0 +1,14 @@
+<categories xmlns="http://www.roku.com">
+  <category name="Season 0">
+    <category name="The Dirty Pics"></category>
+    <category name="The Dirty Vids"></category>
+  </category>
+  <category name="Season 2023">
+    <category name="Photos">
+      <category name="Exterior" />
+      <category name="Interior" />
+      <category name="Garden" />
+    </category>
+    <category name="Videos"></category>
+  </category>
+</categories>
