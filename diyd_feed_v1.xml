@@ -7,23 +7,24 @@
         <description>DIY Discover: Labor of Love is a heartwarming series that follows a family as they embark on an incredible journey to purchase and restore a 100-year-old mansion in Pennsylvania. With no previous experience as carpenters or contractors, the family learns new skills and tackles the unique challenges of restoring a century-old house. Follow along as they discover their inner builders and apply their creativity to bring new life to this historic home. With stunning before-and-after transformations, inspiring stories, and emotional moments, DIY Discover: Labor of Love is the ultimate feel-good series. Be a part of this family's journey and witness the transformation of this neglected mansion into a beautiful home filled with love and memories.</description>
         <link>[Link to Series Page]</link>
         <lastBuildDate>[Date of Last Update]</lastBuildDate>
-        <media:category scheme="https://drive.google.com/file/d/1Lnc0rUGQj9eIuKmt9ks6JWe-P70rfVDY/export?format=xml" label="Season 0">
-            <media:category scheme="https://drive.google.com/file/d/1Lnc0rUGQj9eIuKmt9ks6JWe-P70rfVDY/export?format=xml" label="The Dirty Pics We Saw 1st" />
-            <media:category scheme="https://drive.google.com/file/d/1Lnc0rUGQj9eIuKmt9ks6JWe-P70rfVDY/export?format=xml" label="The Dirty Vids" />
+        <media:category scheme="https://raw.githubusercontent.com/DrCubby/roku/master/categories.xml" label="Season 0">
+            <media:category scheme="https://raw.githubusercontent.com/DrCubby/roku/master/categories.xml" label="The Dirty Pics We Saw 1st" />
+            <media:category scheme="https://raw.githubusercontent.com/DrCubby/roku/master/categories.xml" label="The Dirty Vids" />
         </media:category>
-        <media:category scheme="https://drive.google.com/file/d/1Lnc0rUGQj9eIuKmt9ks6JWe-P70rfVDY/export?format=xml" label="Season 2023">
-            <media:category scheme="https://drive.google.com/file/d/1Lnc0rUGQj9eIuKmt9ks6JWe-P70rfVDY/export?format=xml" label="Photos" />
-            <media:category scheme="https://drive.google.com/file/d/1Lnc0rUGQj9eIuKmt9ks6JWe-P70rfVDY/export?format=xml" label="Videos" />
+        <media:category scheme="https://raw.githubusercontent.com/DrCubby/roku/master/categories.xml" label="Season 2023">
+            <media:category scheme="https://raw.githubusercontent.com/DrCubby/roku/master/categories.xml" label="Photos" />
+            <media:category scheme="https://raw.githubusercontent.com/DrCubby/roku/master/categories.xml" label="Videos" />
         </media:category>
         <item>
             <title>Season 0</title>
-            <media:content url="[URL to Thumbnail]" type="image/jpeg" />
-            <media:category scheme="https://drive.google.com/file/d/1Lnc0rUGQj9eIuKmt9ks6JWe-P70rfVDY/export?format=xml" label="Season 0" />
+            <!--<media:content url="[URL to Thumbnail]" type="image/jpeg" />-->
+            <media:category scheme="https://raw.githubusercontent.com/DrCubby/roku/master/categories.xml" label="Season 0" />
         </item>
         <item> 
             <title>Season 2023</title>
-            <media:content url="[URL to Thumbnail]" type="image/jpeg" />
-            <media:category scheme="https://drive.google.com/file/d/1Lnc0rUGQj9eIuKmt9ks6JWe-P70rfVDY/export?format=xml" label="Season 2023" />
+            <!--<media:content url="[URL to Thumbnail]" type="image/jpeg" />-->
+            <media:category scheme="https://raw.githubusercontent.com/DrCubby/roku/master/categories.xml" label="Season 2023" />
         </item>
     </channel>
 </feed>
+
